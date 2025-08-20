@@ -6,8 +6,3 @@
 6. run the command in same directory: python manage.py runserver
 - django-admin startproject <name_of_project>
 - python manage.py startapp <name_of_app>
-
-bash
-Copy
-Edit
-python manage.py runserver
